@@ -2,8 +2,6 @@ package br.com.caelum.agiletickets.domain.precos;
 
 import java.math.BigDecimal;
 
-import com.sun.xml.internal.ws.api.ha.StickyFeature;
-
 import br.com.caelum.agiletickets.models.Sessao;
 import br.com.caelum.agiletickets.models.TipoDeEspetaculo;
 

@@ -45,7 +45,7 @@ public class EstabelecimentoTest {
 
 		estabelecimentos.adicioneEstabelecimento("", "R. Vergueiro, 3185");
 
-		estabelecimentos.deveMostrarErro("O nome não pode ser vazio");
+		estabelecimentos.deveMostrarErro("O nome não pode ficar vazio");
 	}
 
 	@Test
